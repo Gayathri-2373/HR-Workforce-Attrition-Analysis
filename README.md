@@ -135,15 +135,15 @@ Example Sections:
 
 7️⃣ 🚀 Future Scope
 
-  Machine Learning model for predicting employee attrition
+    Machine Learning model for predicting employee attrition
 
-  Real-time HR analytics dashboard integration
+    Real-time HR analytics dashboard integration
   
-  AI-based employee sentiment analysis
+    AI-based employee sentiment analysis
   
-  Automated HR alert system for high-risk employees
+    Automated HR alert system for high-risk employees
   
-  Advanced predictive workforce planning system
+    Advanced predictive workforce planning system
 
 Author
 
