@@ -64,23 +64,24 @@ The dataset used is the IBM HR Attrition Dataset (100K records version).
 
 📉 Attrition Rate
  
-   AttritionRate=TotalEmployees/AttritionCount
+     AttritionRate=TotalEmployees/AttritionCount
+   
 	​
 🟡 Retention Rate
  
-    RetentionRate=1−AttritionRate
+      RetentionRate=1−AttritionRate
 
 😊 Average Job Satisfaction
 
-   Average score of employee satisfaction (scale 1–4)
+      Average score of employee satisfaction (scale 1–4)
 
 ⚖️ Average Work-Life Balance
 
-   Average score representing employee balance between work and personal life
+     Average score representing employee balance between work and personal life
 
 📈 Average Performance Rating
 
-   Average employee performance score
+     Average employee performance score
 
 4️⃣ 📸 Dashboard Screenshots
 
@@ -146,10 +147,10 @@ Example Sections:
 
 Author
 
-  Gayathri Parthipan,
+    Gayathri Parthipan,
 
-  B.E. Computer Science and Engineering,
+    B.E. Computer Science and Engineering,
 
-  Final Year,
+    Final Year,
   
-  University College of Engineering,Villupuram. 
+    University College of Engineering,Villupuram. 
