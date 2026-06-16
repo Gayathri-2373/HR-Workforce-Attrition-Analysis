@@ -1,0 +1,80 @@
+ 1. Functional Requirements
+
+Data Processing (Python)
+  Load HR dataset using Pandas
+  Clean data (remove duplicates, handle missing values)
+  Transform data types (Age, Income, etc.)
+  Create derived features:
+  AgeGroup
+  ExperienceLevel
+  RiskLevel
+  Export cleaned dataset as CSV for Power BI
+
+Data Visualization (Power BI)
+  Import cleaned dataset
+  Build interactive dashboards
+  Create KPIs using DAX
+  Design charts for analysis:
+    Bar chart
+    Line chart
+    Pie/Donut chart
+    Scatter plot
+
+Business Analysis
+  Workforce distribution analysis
+  Attrition pattern identification
+  Employee risk analysis
+  Satisfaction and performance evaluation
+
+2. Non-Functional Requirements
+
+  Dashboard should be interactive and responsive
+  Data should load efficiently in Power BI
+  Visuals should be clear and readable
+  Clean and structured report output
+  Easy navigation between dashboards
+
+3. Software Requirements
+
+  Python (3.x)
+  Libraries:
+    Pandas
+    NumPy
+    Matplotlib / Seaborn (optional)
+    Power BI Desktop
+    Microsoft Excel (optional for data viewing)
+
+4. Hardware Requirements
+
+  Processor: Intel i3 or above
+  RAM: Minimum 4 GB (8 GB recommended)
+  Storage: At least 500 MB free space
+  Display: 1366×768 or higher resolution
+
+5. Dataset Requirements
+
+  IBM HR Attrition Dataset (100K records version or standard version)
+  Must include:
+    Employee details
+    Attrition status
+    Department
+    Salary
+    Job role
+    Experience data
+
+6. Tools & Technologies
+
+   Python (Data preprocessing)
+   Power BI (Dashboard creation)
+   DAX (Calculations)
+   CSV format (Data transfer between tools)
+
+7. Output Requirements
+
+  Clean dataset file (CSV)
+  Power BI dashboard file (.pbix)
+  Visual dashboards:
+  Executive Overview
+  Workforce Analysis
+  Attrition Analysis
+  Employee Health Dashboard
