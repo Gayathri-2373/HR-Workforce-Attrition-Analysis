@@ -64,7 +64,7 @@ The dataset used is the IBM HR Attrition Dataset (100K records version).
 
 📉 Attrition Rate
  
-     AttritionRate=TotalEmployees/AttritionCount
+     AttritionRate=AttritionCount/TotalEmployees
    
 	​
 🟡 Retention Rate
